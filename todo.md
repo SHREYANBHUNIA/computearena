@@ -8,6 +8,6 @@
 - [x] Inspect repository state and confirm the intended GitHub destination.
 - [x] Create a private GitHub repository and push the current ComputeArena source.
 - [x] Verify the remote repository and provide deployment-ready guidance.
-- [ ] Inspect the current published commit authorship.
-- [ ] Rewrite existing commits to use CSE - 148 - SHREYAN BHUNIA and the provided email.
-- [ ] Force-update the private GitHub repository and verify the corrected author display.
+- [x] Inspect the current published commit authorship.
+- [x] Rewrite existing commits to use CSE - 148 - SHREYAN BHUNIA and the provided email.
+- [x] Force-update the private GitHub repository and verify the corrected author display.
